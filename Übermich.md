@@ -1,15 +1,24 @@
 ---
 layout: page
-title: Über mich
+title: Wir EcoNinjas
 description: 
 ---
 
-![Micha](/images/2018.jpg)
-Zwei Ausbildungen, zwei unterschiedliche Richtungen? Eigentlich nicht! Wie bei vielen Menschen sind meine Interessen und Fähigkeiten vielfältig, warum sich dann nur mit einer Sache beschäftigen?
+EcoNinjas beraten und planen für Sie die Anlage eines naturnahen Gartens, eines Minilebensraums oder einer Freifläche. Unser Ziel ist Artenvielfalt zu erhalten und zu fördern.  Bei der Planung werden ausschließlich einheimische, wenn möglich sogar gebietsheimische Pflanzen einbezogen. Wenn möglich nutzen wir vorhandene Materialen oder arbeiten mit Naturmaterial, um Ressourcen zu schonen.
 
-_Biologeninteressen_: Der Erhalt der Biodiversität liegt mir besonders am Herzen. Es ist mir wichtig, dass meine Arbeit dazu beiträgt wichtige Ressourcen für spätere Generationen zu erhalten. Auch halte ich die Weitergabe von Wissen für essentiell, um nachhaltig Naturschutz betreiben zu können.
+**Team:**
 
-_Handwerkerinteressen_: Nur Akten zu wälzen und Anträge zu schreiben war noch nie so meins, ich war immer schon die "Macherin".
+**Michaela Powolny**
+
+<span class="image right">
+<img src="/images/2018.jpg">
+Michaela Powolny
+Ökologin und Handwerkerin
+</span>
+
+Zwei Ausbildungen, zwei unterschiedliche Richtungen? Eigentlich nicht! Wie bei vielen Menschen sind meine Interessen und Fähigkeiten vielfältig, warum sollten man sich dann nur mit einer Sache beschäftigen?
+**_Biologeninteressen_**: Der Erhalt der Biodiversität liegt mir besonders am Herzen. Es ist mir wichtig, dass meine Arbeit dazu beiträgt wichtige Ressourcen für spätere Generationen zu erhalten. Auch halte ich die Weitergabe von Wissen für essentiell, um nachhaltig Naturschutz betreiben zu können.
+**_Handwerkerinteressen_**: Nur Akten zu wälzen und Anträge zu schreiben war noch nie so meins, ich war immer schon die "Macherin".
 Wo ist der Kreuzungspunkt? Beim aktiven Naturschutz! 
 
 **2010 - 2017**
