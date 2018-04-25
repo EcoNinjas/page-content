@@ -14,6 +14,7 @@ Sci-fi? Mitnichten! Man muss es so drastisch formulieren, denn es ist so drastis
 
 <span class="image right">
 <img src="/images/AsterAmellus.jpg">
+Berg-Aster
 </span>
 
 Jeder weiß mittlerweile über das Bienensterben Bescheid  und kann sich ungefähr ausmalen, was ein Aussterben der Honigbienen nach sich zieht. Aber: Die weitaus größere Anzahl an Bestäubungen werden von anderen Insekten erledigt. Hierunter befinden sich jede Menge Spezialisten, die zum Beispiel auf eine bestimmte Pflanzenfamilie abzielen oder einen bestimmten Lebensraum besiedeln. Die Pflanzen wiederum sind auf bestimmte Insektenarten spezialisiert. Ein Insektensterben wird auf ein massives Aussterben spezialisierter Pflanzen hinauslaufen. Da Insekten auf der unteren Stufe der Nahrungskette stehen, wird ein Insektenschwund auch zum Aussterben vieler Vögel und Kleinsäugetiere wie Mäuse und Igel führen, in weiterer Folge denen Schwierigkeiten machen, die Kleinsäuger konsumieren dem Fuchs und Dachs, den Greifvögeln und und und.....das Aussterben der Pflanzenarten wird auch Säugern und Nagern Schwierigkeiten bereiten die sich von ihnen ernähren.... und so kann man die Spirale immer weiter drehen.
@@ -29,9 +30,25 @@ Ja, was kann ich jetzt da tun, wird sich der ein oder andere nun fragen. Und hie
 
 Zunächst muss man sich die Frage stellen, ob man weiterhin Produkte aus konventionellen Anbau konsumieren muss, oder ob man auf biologisch, besser noch,  ökologisch angebaute Lebensmittel umsteigen kann. Der konventionelle Anbau setzt in hohem Maße auf Gifteinträge um "Schadinsekten" und "Unkräuter" zu beseitigen. Dies, gepaart mit der Problematik der Intensivierung führt zu einer massiven Veränderung unserer Kulturlandschaft und nicht nur zum Aussterben unserer Insekten, sondern auch zum Aussterben von Grünlandpflanzen und Säugern, schlicht zum Aussterben des Ökosystems Kulturlandschaft.
 
+<span class="image right">
+<img src="/images/DaucusCarota.jpg">
+Wilde Möhre
+</span>
+
+
 Weiterhin, und da komme ich wieder auf die lärmenden Rasenmäher zu sprechen, müssen unsere aufgeräumten Gärten überdacht werden. Einheimische Wildpflanzen wie Wilde Möhre, Brennessel, Disteln, Schafgarbe usw. bilden die Nahrungsgrundlage etlicher Insektenlarven und Raupen. Auch sollte man beim Anbau von Blühpflanzen darauf achten, dass es sich um Pflanzen mit einem hohen Nektar- und Pollenangebot handelt. Dabei sollte man früh und spät blühende Arten kombinieren, die das Nahrungsangebot dann möglichst lang aufrechterhalten. Hier eine [Liste](https://hamburg.nabu.de/tiere-und-pflanzen/garten/gartentipps/05222.html) geeigneter Pflanzen.
 
+<span class="image left">
+<img src="/images/Totholz.jpg">
+Totholz mit Bohrlöcher
+</span>
+
 Auf Gifte im Garten muss generell verzichtet werden, lieber Unterschlupfe für Insekten anlegen in Form von Totholz, umgedrehten und mit Holzwolle gefütterten Tontöpfen oder Laub. Meist wird ein Angriff von Blattläusen in einem ökologisch geführten Garten binnen einer Woche von blattlausfressenden Insekten in Schach gehalten.
+
+<span class="image right">
+<img src="/images/Wiese3.jpg">
+Artenreiche Wiese
+</span>
 
 Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss [sinnvoll](https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html) aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
 
