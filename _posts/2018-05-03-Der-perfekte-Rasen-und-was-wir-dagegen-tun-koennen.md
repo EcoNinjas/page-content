@@ -14,7 +14,7 @@ Vielleicht ist es eine Art Meditation. Man geht in seinen Garten, man schmeisst 
 
 Der Garten wird von vielen als zweites Wohnzimmer gesehen, hier herrscht Ordnung und Sauberkeit. Hier liegt zwar kein Teppich, dafür aber teppichartiger Rasen. Und in diesen Rasen investiert man viel Zeit und Geld, er ist ein Prestigeobjekt, eine Kunstfigur. Denn natürlich ist an diesem Rasen nichts mehr. Häufig besteht der moderne Zierrasen nur noch aus wenigen, konkurrenzstarken Arten. Um die Gleichmäßigkeit zu erhalten wird des Rasen häufig gemäht. Da das Heu sofort von der Fläche abgerecht wird, findet, in Verbindung mit der häufigen Maht, großer Nährstoffentzug statt. Gleichzeitig ist der Rasen artenarm, hier finden keine ökologisch ausgleichende Prozesse statt. Hier gibt es auch keine Räuber-Beute-Beziehungen. Wenn in so einen Rasen Ameisen einziehen, dann Milliarden. Durch die fehlenden Gegenspieler ist der Rasen schutzlos, praktisch auf sich allein gestellt. Er kann Angreifern nichts entgegensetzen. 
 
-<span class="image" style="width=70%;">
+<span class="image fit" >
 <img src="/images/Bodenökologie-full_color.png">
 Naturvernichtender Kreislauf
 </span>
