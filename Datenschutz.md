@@ -1,3 +1,9 @@
+---
+title: EcoNinjas Datenschutzerklärung
+layout: page
+date: 2018-05-08
+---
+
 # Datenschutzerklärung
 
 ## Datenschutz
