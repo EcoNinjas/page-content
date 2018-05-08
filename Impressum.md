@@ -8,15 +8,15 @@ date: 2018-05-08
 # Impressum
 
 ## Angaben gemäß § 5 TMG:
-Michaela Powolny
-EcoNinjas
-Schwanenstr.3
+Michaela Powolny<br>
+EcoNinjas<br>
+Schwanenstr.3<br>
 93309 Kelheim
 
 ## Kontakt:
 
-Telefon: 09441/7032690
-E-Mail: mp.ecology@gmx.de
+Telefon: 09441/7032690<br>
+E-Mail: mailto:mp.ecology@gmx.de
 
 ## Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur
