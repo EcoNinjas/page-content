@@ -16,11 +16,12 @@ Schwanenstr.3
 ## Kontakt:
 
 Telefon: 09441/7032690
-E-Mail: mp.ecology[at]gmx.de
+E-Mail: mp.ecology@gmx.de
 
 ## Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur
-Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr
+Online-Streitbeilegung (OS) bereit:
+<a href="https://ec.europa.eu/consumers/odr">https://ec.europa.eu/consumers/odr</a>
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren
