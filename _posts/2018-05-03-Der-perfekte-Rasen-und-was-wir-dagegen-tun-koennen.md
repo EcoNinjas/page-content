@@ -1,6 +1,7 @@
 ---
 
 layout: post
+<img src="/images/GartenPlan1.jpg">
 title: Der perfekte Rasen und was wir dagegen tun können
 tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Boden
 description: Warum ist mein Rasen nur grün und was hat das mit dem Boden zu tun?
