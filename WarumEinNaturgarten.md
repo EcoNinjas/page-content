@@ -2,7 +2,7 @@
 
 layout: page
 title: Vorteil für Mensch und Natur
-<img src="/images/WildeKarde.jpg">
+image: /images/WildeKarde.jpg
 tag: Ökologie Artenschutz Umweltbildung Kundenvorteile
 decription: Was ist ein Naturgarten und wo liegen seine Vorteile? Die ökologische Bedeutung von Wildpflanzen und der Garten als Trittstein für Fauna und Flora
 date: 2018-04-17
