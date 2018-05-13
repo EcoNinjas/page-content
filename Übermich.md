@@ -4,9 +4,9 @@ title: Wir EcoNinjas
 description: 
 ---
 
-EcoNinjas beraten und planen für Sie die Anlage eines naturnahen Gartens, eines Minilebensraums oder einer Freifläche. Unser Ziel ist Artenvielfalt zu erhalten und zu fördern.  Bei der Planung werden ausschließlich einheimische, wenn möglich sogar gebietsheimische Pflanzen einbezogen. Wenn möglich nutzen wir vorhandene Materialen oder arbeiten mit Naturmaterial, um Ressourcen zu schonen.
+Mein Ziel ist Artenvielfalt zu erhalten und zu fördern.  Dafür werden ausschließlich einheimische, wenn möglich sogar gebietsheimische Pflanzen einbezogen. Wenn möglich nutze ich vorhandene Materialen oder arbeite mit Naturmaterial, um Ressourcen zu schonen.
 
-**Team:**
+**Lebenslauf**
 
 **Michaela Powolny**
 
