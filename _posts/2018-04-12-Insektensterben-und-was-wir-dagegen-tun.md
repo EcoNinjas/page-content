@@ -44,16 +44,21 @@ Weiterhin, und da komme ich wieder auf die lärmenden Rasenmäher zu sprechen, m
 Totholz mit Bohrlöcher
 </span>
 
-Auf Gifte im Garten muss generell verzichtet werden, lieber Unterschlupfe für Insekten anlegen in Form von Totholz, umgedrehten und mit Holzwolle gefütterten Tontöpfen oder Laub. Meist wird ein Angriff von Blattläusen in einem ökologisch geführten Garten binnen einer Woche von blattlausfressenden Insekten in Schach gehalten.
+Auf Gifte im Garten sollte generell verzichtet werden, lieber Unterschlupfe für Insekten anlegen in Form von Totholz, umgedrehten und mit Holzwolle gefütterten Tontöpfen oder Laub. Meist wird ein Angriff von Blattläusen in einem ökologisch geführten Garten binnen einer Woche von blattlausfressenden Insekten in Schach gehalten.
 
 <span class="image right">
-<img src="/images/Wiese3.jpg">
-Artenreiche Wiese
+<img src="/images/7.jpg">
+Schwebfliegenalarm
 </span>
 
 Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss [sinnvoll](https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html) aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
 
 So und nun: Licht aus. [Lichtverschmutzung](http://www.spektrum.de/news/lichtverschmutzung-bedroht-insekten/1423701) ist eine riesige Todesfalle für Fluginsekten und außerdem ist es nicht notwendig und ökologisch fragwürdig das eigene Anwesen ohne Grund zu beleuchten. Besser: der Rückgriff auf Bewegungsmelder.
+
+<span class="image right">
+<img src="/images/8.jpg">
+Marienkäfer im Löwenzahnbett
+</span>
 
 Ihr seht schon, das Thema ist komplex. Genau deshalb entstand in mir der Gedanke ein Naturgartenprojekt ins Leben zu rufen. Die Idee dahinter ist eigentlich erstmal ganz simpel: Ich will Arten schützen, ich will Biodiversität erhalten und ich möchte Euch zeigen, dass ihr das auch könnt. Allerdings braucht ihr ein Grundgerüst, das heisst es ist von großer Wichtigkeit, dass ihr ökologische Zusammenhänge versteht. Nur dann könnt ihr nachhaltig etwas in Eurem Garten oder auf Eurem Balkon verändern und nur dann könnt ihr auch andere zum Umdenken anregen. So könnt ihr Euren "ungepflegten" Garten vor Euren Nachbarn zielsicher mit ökologisch fundierten Argumenten verteidigen und zwar so lange, bis dieser Nachbar auch naturnah gärtnert. 
 Wie sieht also die Idee konkret aus? Ich möchte ein Grundstück pachten, das wir gemeinsam, also alle die sich gerne beteiligen möchten, zu einem Naturgarten umgestalten.
