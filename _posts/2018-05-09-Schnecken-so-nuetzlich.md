@@ -17,7 +17,7 @@ Nacktschnecken fressen organisches Material, wie Laub oder Aas und befinden sich
 
 <span class="image fit" >
 <img src="/images/9.png">
-Die Merkmale eines Schnegels
+Die Merkmale eines Schnegels.
 Die Wegschnecke hat das Atemloch näher am Kopf ist kleiner und hat keinen Kiel
 </span>
 
