@@ -15,7 +15,7 @@ date: 2018-04-17
 Wild und trotzdem schön, diese Bienenweidesaatmischung
 </span>
 
-_Wir wollen es wild_ - Dieses Motto ist Programm in einem Naturgarten. Dabei muss es noch nicht mal wild aussehen, auch ein ordentlicher Garten kann wild sein. Wild sind aber die Pflanzen und Tiere in einem Naturgarten, denn sie sind hier beheimatet und wurden nicht künstlich durch Züchtungen auf Schönheit gezähmt. Wildnis ist ganz von allein schön und kann ein Fest für die Augen und die Sinne sein. Und sie kann ein faszinierendes Artenspektrum hervorbringen. In einem wilden Garten, einem naturnahen Garten, können Sie und Ihre Kinder jeden Tag Neues entdecken und lernen. Oder Sie können einfach die Seele baumeln lassen, während das Leben um sie tobt.
+_Wir wollen es wild_ - Dieses Motto ist Programm in einem Naturgarten. Dabei muss es noch nicht mal wild aussehen, auch ein ordentlicher Garten kann wild sein. Wild sind aber die Pflanzen und Tiere in einem Naturgarten, denn sie sind hier beheimatet und wurden nicht künstlich durch Züchtungen auf Schönheit gezähmt. Wildnis ist ganz von allein schön und kann ein Fest für die Augen und die Sinne sein. Und sie kann ein faszinierendes Artenspektrum hervorbringen. In einem wilden Garten, einem naturnahen Garten, kannst du und Deine Kinder jeden Tag Neues entdecken und lernen. Oder Du kannst einfach die Seele baumeln lassen, während das Leben um dich tobt.
 
 In einem Naturgarten gibt es nicht: 
 - Artenarmut
@@ -25,7 +25,7 @@ In einem Naturgarten gibt es nicht:
 
 **Vorteile Ihres Naturgartens**
 
-Ein Naturgarten hat nicht nur ökologische Bedeutung, sondern auch für Sie persönlich viele Vorteile. Die Anlage eines solchen Garten ist vergleichsweise preiswert, denn heimische Wildpflanzen sind oft günstiger als eingeführte Arten. Wir verwenden auch gerne bereits vorhandenes Material oder greifen auf Naturmaterialen zurück. Das schont Ihren Geldbeutel und Ressourcen. Im Naturgarten ist der Pflegeaufwand vergleichsweise niedrig. Zwar muss auch ein Naturgarten gepflegt werden, jedoch gehören ständiges Mähen und Jäten der Vergangenheit an. Sie nutzen Ihre Zeit im Garten, um zu genießen!
+Ein Naturgarten hat nicht nur ökologische Bedeutung, sondern auch für Sie persönlich viele Vorteile. Die Anlage eines solchen Garten ist vergleichsweise preiswert, denn heimische Wildpflanzen sind oft günstiger als eingeführte Arten. Wir verwenden auch gerne bereits vorhandenes Material oder greifen auf Naturmaterialen zurück. Das schont Deinen Geldbeutel und Ressourcen. Im Naturgarten ist der Pflegeaufwand vergleichsweise niedrig. Zwar muss auch ein Naturgarten gepflegt werden, jedoch gehören ständiges Mähen und Jäten der Vergangenheit an. Du nutzt Deine Zeit im Garten, um zu genießen!
 
 
 
@@ -57,7 +57,7 @@ Fehlt die Wildpflanze, fehlt das ökologische Glied, das alles zusammenhält!
 Totholz ist ein Kleinstlebensraum für zahlreiche Organismen
 </span>
 
-Der Lebensraumverlust ist zwar dramatisch und lässt sich durch Gärten allein nicht aufhalten, aber Naturgärten können dazu beitragen kleine Rückzugsgebiete für heimische Tier- und Pflanzenarten zu bilden oder diese zu verbinden. Dabei gilt: Nicht die Größe Ihres Gartens ist entscheidend, sondern die Ökologie. Jeder, der schon mal unter einen dicken Stein geschaut hat, kann Ihnen das darunter stattfindende Leben bestätigen. Aber nur wenige Arten werden sich dauerhaft unter nur einem Stein aufhalten, sie werden zum nächsten schützenden Stein wandern, um Nahrung zu suchen, sich zu paaren, die Brut aufzuziehen oder ähnliches. Ein solcher Trittstein kann auch Ihr Naturgarten sein. Die ökologische Bedeutung Ihres Gartens steigt also mit jedem weiteren Naturgarten in Ihrer Umgebung. 
+Der Lebensraumverlust ist zwar dramatisch und lässt sich durch Gärten allein nicht aufhalten, aber Naturgärten können dazu beitragen kleine Rückzugsgebiete für heimische Tier- und Pflanzenarten zu bilden oder diese zu verbinden. Dabei gilt: Nicht die Größe des Gartens ist entscheidend, sondern die Ökologie. Jeder, der schon mal unter einen dicken Stein geschaut hat, kann Dir das darunter stattfindende Leben bestätigen. Aber nur wenige Arten werden sich dauerhaft unter nur einem Stein aufhalten, sie werden zum nächsten schützenden Stein wandern, um Nahrung zu suchen, sich zu paaren, die Brut aufzuziehen oder ähnliches. Ein solcher Trittstein kann auch Dein Naturgarten sein. Die ökologische Bedeutung Deines Gartens steigt also mit jedem weiteren Naturgarten in Deiner Umgebung. 
  
 
 

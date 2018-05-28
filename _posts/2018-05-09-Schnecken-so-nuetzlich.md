@@ -21,7 +21,7 @@ Die Merkmale eines Schnegels.
 Die Wegschnecke hat das Atemloch näher am Kopf ist kleiner und hat keinen Kiel
 </span>
 
-Weil Schnecken also gerne Aas fressen, sind sie sowas wie das Gesundheitsamt der Natur. Sie verhindern die Ausbreitung von Seuchen. Und zuletzt: Wie viele andere Tiere sind auch Schnecken ein Teil der Nahrungskette. Insekten wie der Grabkäfer *Pterostichus*, Vögel, Reptilien und Säuger, wie zum Beispiel der Igel, verspeisen Schnecken. Beim Einsatz von Giften, denke an die enorme Bandbreite von Tieren, die du damit vergiftest. 
+Weil Schnecken also gerne Aas fressen, sind sie sowas wie das Gesundheitsamt der Natur. Sie verhindern die Ausbreitung von Seuchen. Und zuletzt: Wie viele andere Tiere sind auch Schnecken ein Teil der Nahrungskette. Insekten wie der Grabkäfer *Pterostichus*, Vögel, Reptilien und Säuger, wie zum Beispiel der Igel, verspeisen Schnecken. Beim Einsatz von Giften, denke an die enorme Bandbreite von Tieren, die Du damit vergiftest. 
 
 
 

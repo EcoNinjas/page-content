@@ -16,7 +16,7 @@ Michaela Powolny
 Ökologin und Handwerkerin
 </span>
 
-Zwei Ausbildungen, zwei unterschiedliche Richtungen? Eigentlich nicht! Wie bei vielen Menschen sind meine Interessen und Fähigkeiten vielfältig, warum sollten man sich dann nur mit einer Sache beschäftigen?
+Zwei Ausbildungen, zwei unterschiedliche Richtungen? Eigentlich nicht! Wie bei vielen Menschen sind meine Interessen und Fähigkeiten vielfältig, warum sollte man sich dann nur mit einer Sache beschäftigen?
 **_Biologeninteressen_**: Der Erhalt der Biodiversität liegt mir besonders am Herzen. Es ist mir wichtig, dass meine Arbeit dazu beiträgt wichtige Ressourcen für spätere Generationen zu erhalten. Auch halte ich die Weitergabe von Wissen für essentiell, um nachhaltig Naturschutz betreiben zu können.
 **_Handwerkerinteressen_**: Nur Akten zu wälzen und Anträge zu schreiben war noch nie so meins, ich war immer schon die "Macherin".
 Wo ist der Kreuzungspunkt? Beim aktiven Naturschutz! 
