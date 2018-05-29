@@ -9,7 +9,7 @@ date: 2018-05-29
 
 ---
 
-Sie haben lustige Namen wie <a href="https://de.wikipedia.org/wiki/Rapsglanzk%C3%A4fer" target="_blank">Rapsglanzkäfer</a , [Rapsstängelrüssler](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Rapsst%C3%A4ngelr%C3%BCssler) oder [Gefleckter Kohltriebrüssler](https://de.wikipedia.org/wiki/Gefleckter_Kohltriebr%C3%BCssler) und sie fressen gerne Raps.
+Sie haben lustige Namen wie <a href="https://de.wikipedia.org/wiki/Rapsglanzk%C3%A4fer" target="_blank">Rapsglanzkäfer</a>,  [Rapsstängelrüssler](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Rapsst%C3%A4ngelr%C3%BCssler) oder [Gefleckter Kohltriebrüssler](https://de.wikipedia.org/wiki/Gefleckter_Kohltriebr%C3%BCssler) und sie fressen gerne Raps.
 
 Auch anderes, aber Raps ist ja in Unmengen vorhanden und warum in die Ferne schweifen, wenn das Gute so nah liegt? Landwirte lieben diese Econauten also nicht so besonders. Und sie bekämpfen sie mit harten Bandagen, kippen Gifte über sie aus oder lassen Parasitoide auf sie los. Naja, in den letzten Jahren waren sie, speziell mit den Giften, immer weniger erfolgreich. Denn Insekten haben eine hervorragende Eigenschaft: Sie können sich wahnsinnig schnell anpassen. Genau das machen auch unsere Econauten. Sie werden immer resistenter gegen Insektizide. 
 
