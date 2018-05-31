@@ -3,7 +3,7 @@
 layout: post
 image: /images/6.jpg
 title: Der perfekte Rasen und was wir dagegen tun können
-tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Boden
+tags: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Boden
 description: Warum ist mein Rasen nur grün und was hat das mit dem Boden zu tun?
 date: 2018-05-03
 

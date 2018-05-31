@@ -3,7 +3,7 @@
 layout: post
 image: /images/1.jpg
 title: Schnecken, so nützlich
-tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Boden
+tags: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Boden
 description: Schnecken haben ein schlechtes Image, aber ihre ökologische Bedeutung ist immens
 date: 2018-05-09
 

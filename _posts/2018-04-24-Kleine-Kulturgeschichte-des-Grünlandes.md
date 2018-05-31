@@ -3,7 +3,7 @@
 layout: post
 title: Kleine Kulturgeschichte des Grünlandes
 image: /images/Gruenland.jpg
-tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Grünland Kulturlandschaft Kulturgeschichte
+tags: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Grünland Kulturlandschaft Kulturgeschichte
 description: Wie Grünland entstand und warum es gefährdet ist
 date: 2018-04-24
 

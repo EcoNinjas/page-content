@@ -3,7 +3,7 @@
 layout: post
 title: Vielfalt bringt auch mehr Raps
 image: /images/23.jpg
-tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Ackerrandstreifen Laufkäfer Rapsglanzkäfer Econauten Rapsstängelrüssler Kohltriebrüssler Kohlschotenrüssler Kohlschotenmücke Resistenz Insektizide Schädlinge Nützlinge
+tags: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust Ackerrandstreifen Laufkäfer Rapsglanzkäfer Econauten Rapsstängelrüssler Kohltriebrüssler Kohlschotenrüssler Kohlschotenmücke Resistenz Insektizide Schädlinge Nützlinge
 description: Blühflächen in der Nähe von Rapsfeldern halten Schädlinge in Schach
 date: 2018-05-29
 

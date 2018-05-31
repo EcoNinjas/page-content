@@ -3,7 +3,7 @@
 layout: post
 title: Insektensterben und was wir dagegen tun
 image: /images/Grille.jpg
-tag: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust 
+tags: Artenschutz Ökologie Umweltbildung Biodiversitätsverlust 
 description: Die Gründe für das Insektensterben und warum man ein umfassendes ökologisches Verständnis braucht um einen Naturgarten entstehen zu lassen. Ausserdem stelle ich hier die Idee eines Naturgartenprojekts vor.
 date: 2018-04-12
 
