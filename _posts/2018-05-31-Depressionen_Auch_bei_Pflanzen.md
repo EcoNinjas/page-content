@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Depressionen: Auch bei Pflanzen?
+title: Depressionen, auch bei Pflanzen?
 image: /images/25.jpg
 tags: Artenschutz Ökologie Umweltbildung Outbreeding_depression innerartliche_Vielfalt Phänotypen Auszuchtdepression Biologische_Vielfalt Ökosystem Biodiversität Selektion Genetik Allele Aussterbeereignis gebietsheimisches_Saatgut Ursprungskarte
 description: Warum es wichtig ist regionales/gebietsheimisches Saatgut auch in Gärten anzuwenden. Weiterhin wird der Mechanismus von Outbreeding Depression erklärt.
