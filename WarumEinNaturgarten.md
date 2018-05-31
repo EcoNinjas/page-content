@@ -23,9 +23,9 @@ In einem Naturgarten gibt es nicht:
 - Pflanzen gebietsfremder Herkunft
 - ständiges Unkrautjäten oder Mähen
 
-**Vorteile Ihres Naturgartens**
+**Vorteile Deines Naturgartens**
 
-Ein Naturgarten hat nicht nur ökologische Bedeutung, sondern auch für Sie persönlich viele Vorteile. Die Anlage eines solchen Garten ist vergleichsweise preiswert, denn heimische Wildpflanzen sind oft günstiger als eingeführte Arten. Wir verwenden auch gerne bereits vorhandenes Material oder greifen auf Naturmaterialen zurück. Das schont Deinen Geldbeutel und Ressourcen. Im Naturgarten ist der Pflegeaufwand vergleichsweise niedrig. Zwar muss auch ein Naturgarten gepflegt werden, jedoch gehören ständiges Mähen und Jäten der Vergangenheit an. Du nutzt Deine Zeit im Garten, um zu genießen!
+Ein Naturgarten hat nicht nur ökologische Bedeutung, sondern auch für Dich persönlich viele Vorteile. Die Anlage eines solchen Garten ist vergleichsweise preiswert, denn heimische Wildpflanzen sind oft günstiger als eingeführte Arten. Wir verwenden auch gerne bereits vorhandenes Material oder greifen auf Naturmaterialen zurück. Das schont Deinen Geldbeutel und Ressourcen. Im Naturgarten ist der Pflegeaufwand vergleichsweise niedrig. Zwar muss auch ein Naturgarten gepflegt werden, jedoch gehören ständiges Mähen und Jäten der Vergangenheit an. Du nutzt Deine Zeit im Garten, um zu genießen!
 
 
 
