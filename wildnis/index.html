@@ -1,0 +1,28 @@
+---
+layout: page
+title: EcoNinjas - Wildnis - Tipps für Naturgärten, Naturschutz und Nachhaltigkeit
+sitemap: sitemap.xml
+priority: 1.0
+lastmod: 2018-08-15
+changefreq: weekly
+---
+
+<section id="wilde-winke">
+  <h2>Wilde Winke</h2>
+  <p>
+    Kurztipps zum Downloaden, ausdrucken und weitergeben
+  </p>
+  <div id="carousel-div">
+  </div>
+</section>
+
+{% include scripts-main.html %}
+
+<script src="/wildnis/carousel.js"></script>
+<script>
+  {% for img in site.static_files %}
+    {% if img.path contains "wildnis/winke" %}
+      carousel.core.addImage("{{ img.path }}");
+    {% endif %}
+  {% endfor %}
+</script>
