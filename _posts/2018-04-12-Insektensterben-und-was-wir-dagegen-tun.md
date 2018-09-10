@@ -45,12 +45,14 @@ Totholz mit Bohrlöcher
 
 Auf Gifte im Garten sollte generell verzichtet werden, lieber Unterschlupfe für Insekten anlegen in Form von Totholz, umgedrehten und mit Holzwolle gefütterten Tontöpfen oder Laub. Meist wird ein Angriff von Blattläusen in einem ökologisch geführten Garten binnen einer Woche von blattlausfressenden Insekten in Schach gehalten.
 
-<span class="image fit">
+
+
+Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss <a href="https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html" target="_blank">sinnvoll</a>  aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
+
+<span class="image left">
 <img src="/images/7.jpg">
 Schwebfliegenalarm
 </span>
-
-Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss <a href="https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html" target="_blank">sinnvoll</a>  aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
 
 So und nun: <a href="https://www.econinjas.de/blog/Licht-aus/" target="_blank">Licht</a> aus!  <a href="http://www.spektrum.de/news/lichtverschmutzung-bedroht-insekten/1423701" target="_blank">Lichtverschmutzung</a> ist eine riesige Todesfalle für Fluginsekten und außerdem ist es nicht notwendig und ökologisch fragwürdig das eigene Anwesen ohne Grund zu beleuchten. Besser: der Rückgriff auf Bewegungsmelder.
 
