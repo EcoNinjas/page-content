@@ -49,16 +49,13 @@ Auf Gifte im Garten sollte generell verzichtet werden, lieber Unterschlupfe für
 
 Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss <a href="https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html" target="_blank">sinnvoll</a>  aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
 
-<span class="image left">
-<img src="/images/7.jpg">
-Schwebfliegenalarm
-</span>
+
 
 So und nun: <a href="https://www.econinjas.de/blog/Licht-aus/" target="_blank">Licht</a> aus!  <a href="http://www.spektrum.de/news/lichtverschmutzung-bedroht-insekten/1423701" target="_blank">Lichtverschmutzung</a> ist eine riesige Todesfalle für Fluginsekten und außerdem ist es nicht notwendig und ökologisch fragwürdig das eigene Anwesen ohne Grund zu beleuchten. Besser: der Rückgriff auf Bewegungsmelder.
 
 <span class="image right">
-<img src="/images/8.jpg">
-Marienkäfer im Löwenzahnbett
+<img src="/images/7.jpg">
+Schwebfliegenalarm
 </span>
 
 Ihr seht schon, das Thema ist komplex. Genau deshalb entstand in mir der Gedanke ein Naturgartenprojekt ins Leben zu rufen. Die Idee dahinter ist eigentlich erstmal ganz simpel: Ich will Arten schützen, ich will Biodiversität erhalten und ich möchte Euch zeigen, dass ihr das auch könnt. Allerdings braucht ihr ein Grundgerüst, das heisst es ist von großer Wichtigkeit, dass ihr ökologische Zusammenhänge versteht. Nur dann könnt ihr nachhaltig etwas in Eurem Garten oder auf Eurem Balkon verändern und nur dann könnt ihr auch andere zum Umdenken anregen. So könnt Ihr Euren "ungepflegten" Garten vor Euren Nachbarn zielsicher mit ökologisch fundierten Argumenten verteidigen und zwar so lange, bis dieser Nachbar auch naturnah gärtnert. 
