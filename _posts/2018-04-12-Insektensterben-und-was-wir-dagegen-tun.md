@@ -22,8 +22,7 @@ Jeder weiß mittlerweile über das Bienensterben Bescheid  und kann sich ungefä
 
 
 
-
-Diese Problematik steckt hinter der  [Studie](http://www.spektrum.de/news/insektenzahl-in-deutschland-nimmt-um-75-prozent-ab/1512165), die kürzlich von "PLoS One" veröffentlicht wurde.
+Diese Problematik steckt hinter der <a href="http://www.spektrum.de/news/insektenzahl-in-deutschland-nimmt-um-75-prozent-ab/1512165" target="_blank">Studie</a> die kürzlich von "PLoS One" veröffentlicht wurde.
 
 Die Ursachen für dieses Artensterben indes sind vielfältig und es lässt sich nicht ein einzelner Buhmann herausgreifen, denn wir sind tatsächlich alle beteiligt. Ja auch DU.
 
@@ -37,7 +36,7 @@ Wilde Möhre
 </span>
 
 
-Weiterhin, und da komme ich wieder auf die lärmenden Rasenmäher zu sprechen, müssen unsere aufgeräumten Gärten überdacht werden. Einheimische Wildpflanzen wie Wilde Möhre, Brennessel, Disteln, Schafgarbe usw. bilden die Nahrungsgrundlage etlicher Insektenlarven und Raupen. Auch sollte man beim Anbau von Blühpflanzen darauf achten, dass es sich um Pflanzen mit einem hohen Nektar- und Pollenangebot handelt. Dabei sollte man früh und spät blühende Arten kombinieren, die das Nahrungsangebot dann möglichst lang aufrechterhalten. Hier eine [Liste](https://hamburg.nabu.de/tiere-und-pflanzen/garten/gartentipps/05222.html) geeigneter Pflanzen.
+Weiterhin, und da komme ich wieder auf die lärmenden Rasenmäher zu sprechen, müssen unsere aufgeräumten Gärten überdacht werden. Einheimische Wildpflanzen wie Wilde Möhre, Brennessel, Disteln, Schafgarbe usw. bilden die Nahrungsgrundlage etlicher Insektenlarven und Raupen. Auch sollte man beim Anbau von Blühpflanzen darauf achten, dass es sich um Pflanzen mit einem hohen Nektar- und Pollenangebot handelt. Dabei sollte man früh und spät blühende Arten kombinieren, die das Nahrungsangebot dann möglichst lang aufrechterhalten. Hier eine <a href="https://hamburg.nabu.de/tiere-und-pflanzen/garten/gartentipps/05222.html" target="_blank">Liste</a> geeigneter Pflanzen.
 
 <span class="image left">
 <img src="/images/Totholz.jpg">
@@ -51,9 +50,9 @@ Auf Gifte im Garten sollte generell verzichtet werden, lieber Unterschlupfe für
 Schwebfliegenalarm
 </span>
 
-Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss [sinnvoll](https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html) aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
+Nisthilfen in Form von Insektenhotels sind auch sinnvoll, aber es muss auch ein Nahrungsspektrum für die betreffende Brut im Garten vorhanden sein und, auch ganz wichtig, das Insektenhotel muss <a href="https://www.nabu.de/umwelt-und-ressourcen/oekologisch-leben/mission-gruen/17063.html" target="_blank">sinnvoll</a>  aufgebaut werden, sonst wird es nicht angenommen und verursacht im schlimmsten Fall auch noch Schäden an den Flügelchen.
 
-So und nun: Licht aus. [Lichtverschmutzung](http://www.spektrum.de/news/lichtverschmutzung-bedroht-insekten/1423701) ist eine riesige Todesfalle für Fluginsekten und außerdem ist es nicht notwendig und ökologisch fragwürdig das eigene Anwesen ohne Grund zu beleuchten. Besser: der Rückgriff auf Bewegungsmelder.
+So und nun: <a href="https://www.econinjas.de/blog/Licht-aus/" target="_blank">Licht</a> aus!  <a href="http://www.spektrum.de/news/lichtverschmutzung-bedroht-insekten/1423701" target="_blank">Lichtverschmutzung</a> ist eine riesige Todesfalle für Fluginsekten und außerdem ist es nicht notwendig und ökologisch fragwürdig das eigene Anwesen ohne Grund zu beleuchten. Besser: der Rückgriff auf Bewegungsmelder.
 
 <span class="image right">
 <img src="/images/8.jpg">
