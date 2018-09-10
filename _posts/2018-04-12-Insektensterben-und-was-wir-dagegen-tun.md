@@ -45,7 +45,7 @@ Totholz mit Bohrlöcher
 
 Auf Gifte im Garten sollte generell verzichtet werden, lieber Unterschlupfe für Insekten anlegen in Form von Totholz, umgedrehten und mit Holzwolle gefütterten Tontöpfen oder Laub. Meist wird ein Angriff von Blattläusen in einem ökologisch geführten Garten binnen einer Woche von blattlausfressenden Insekten in Schach gehalten.
 
-<span class="image left">
+<span class="image fit">
 <img src="/images/7.jpg">
 Schwebfliegenalarm
 </span>
