@@ -13,10 +13,10 @@ Die Geschichte des Grünlandes ist die Geschichte der Kulturlandschaft und somit
 
 <span class="image right">
 <img src="/images/GalliumMollugo.jpg">
-Gallium mollugo - typische Grünlandart
+*Gallium mollugo* - typische Grünlandart
 </span>
 
-Neben Wäldern und Feldern dominieren heute Grünlandlebensräume in Mitteleuropa. Aber Grünland war nicht immer hier. Vor 10 000 Jahren, vor der letzten Eiszeit, gab es in Mitteleuropa nirgendwo Grünland. Es entstand erst später, zur gleichen Zeit wie die anthropogene Landnutzung. Natürliches Grünland evolvierte in den meisten Fällen aus ursprünglichen Bergwiesen, Schotterwiesen und Feuchtwiesen und war sehr selten. Anthropogenes Grünland entstand jedoch mit der Einwanderung und Seßhaftwerdung der Menschen vor 7000 Jahren. Da wurden nämlich Bäume für Viehweiden gerodet, Sümpfe trockengelegt und extensiv bewirtschaftet, Torf gestochen. Vorallem die Rodung verursachte große offene Flächen auf denen Grünland durch Beweidung offengehalten wurde. Holz als Energielieferant war auch ein wichtiger Rohstoff, man benötigte es zum Häuserbauen, später, im 15 Jahrhundert, hat man es auch für Minenbau, Kohle- und Glasherstellung verwendet. [^Poschlod2015] [^DierschkeundBriemle2008]
+Neben Wäldern und Feldern dominieren heute Grünlandlebensräume in Mitteleuropa. Aber Grünland war nicht immer hier. Vor 10 000 Jahren, vor der letzten Eiszeit, gab es in Mitteleuropa nirgendwo Grünland. Es entstand erst später, zur gleichen Zeit wie die anthropogene Landnutzung. Natürliches Grünland evolvierte in den meisten Fällen aus ursprünglichen Bergwiesen, Schotterwiesen und Feuchtwiesen und war sehr selten. Anthropogenes Grünland entstand jedoch mit der Einwanderung und Sesshaftwerdung der Menschen vor 7000 Jahren. Da wurden nämlich Bäume für Viehweiden gerodet, Sümpfe trockengelegt und extensiv bewirtschaftet, Torf gestochen. Vor allem die Rodung verursachte große offene Flächen auf denen Grünland durch Beweidung offengehalten wurde. Holz als Energielieferant war auch ein wichtiger Rohstoff, man benötigte es zum Häuserbauen, später, im 15 Jahrhundert, hat man es auch für Minenbau, Kohle- und Glasherstellung verwendet. [^Poschlod2015] [^DierschkeundBriemle2008]
 
 <span class="image right">
 <img src="/images/MalvaSylvestris2.jpg">
