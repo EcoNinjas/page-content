@@ -13,8 +13,7 @@ date: 2019-01-05
 Artenreiche Wiese nach Rekultivierungsmaßnahme
 </span>
 
-> Ab Mai 2019 führen wir Planung und Beratung für Deinen Naturgarten
-> durch. Natürlich kannst Du schon jetzt Termine mit uns absprechen.
+## Individuelle Beratung und Planung von Naturgärten
 
 Zunächst stellt sich die Frage: Was willst Du in Deinem Garten ändern?
 Soll ein neuer Minilebensraum innerhalb des Gartens entstehen, soll
