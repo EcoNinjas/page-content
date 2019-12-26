@@ -36,8 +36,8 @@ Beim aktiven Naturschutz!
 
 - Dozentin für Ökologie und Gesundheit
 - MSc. Biologie mit Fachrichtung Ökologie und Naturschutz
-  (Masterarbeit: The Impact of Restoration on the Genetic Diversity of
-  Grassland Plant Species)
+  (Masterarbeit: _The Impact of Restoration on the Genetic Diversity of
+  Grassland Plant Species_)
 - 01/2017 - 03/2017: _Genetic Variation in Silene acaulis increases
   with Population age_, [Botany, Vol 94(4):
   241-247](HTTPS://doi.org/10.11.39/cjb-2015-0195)
