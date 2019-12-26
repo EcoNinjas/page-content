@@ -12,7 +12,7 @@ Mein Ziel ist Artenvielfalt zu erhalten und zu fördern.  Dafür werden ausschli
 
 <span class="image right">
 <img src="/images/2018.jpg">
-Michaela Powolny
+Michaela Powolny  
 Ökologin und Handwerkerin
 </span>
 
